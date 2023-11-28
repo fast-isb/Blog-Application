@@ -1,0 +1,63 @@
+/* CreatePostPage.css */
+
+.post-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Align the button horizontally */
+  }
+  
+  .post-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Align items (input fields) horizontally */
+  }
+  
+  .post-input,
+  .post-textarea {
+    width: calc(100% - 40px);
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: none;
+  }
+  
+  .post-button {
+    width: 150px;
+    padding: 12px 20px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .post-button:hover {
+    background-color: #0056b3;
+  }
+   
+  .post-button1 {
+    width: 112px;
+    padding: 12px 20px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .post-button1:hover {
+    background-color: #0056b3;
+  }

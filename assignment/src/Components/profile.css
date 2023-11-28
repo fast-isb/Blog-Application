@@ -1,0 +1,42 @@
+.container-profile {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.container-profile h1 {
+  margin-bottom: 30px;
+  color: #333;
+  font-size: 28px;
+}
+
+.container-profile p {
+  margin-bottom: 15px;
+  color: #555;
+  font-size: 18px;
+}
+
+.btn-profile {
+  display: inline-block;
+  width: 45%;
+  margin: 10px 2.5%;
+  padding: 12px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-profile:hover {
+  background-color: #0056b3;
+}
+

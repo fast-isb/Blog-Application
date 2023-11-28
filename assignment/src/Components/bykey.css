@@ -1,0 +1,37 @@
+/* Adjustments for posts */
+.post1 {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.post1 h3 {
+  margin-top: 0;
+  font-size: 1.8rem;
+  color: #333;
+}
+
+.post1 p {
+  color: #555;
+}
+
+/* Styling for comments */
+.comments1 {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.comment1 {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.comment1 p {
+  margin: 8px 0;
+  color: #777;
+}

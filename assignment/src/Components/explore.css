@@ -1,0 +1,32 @@
+/* Explore.css */
+
+/* Styling for the main container */
+.explore-container {
+    margin: 20px;
+    
+}
+
+/* Styling for the user list */
+.user-list {
+    list-style: none;
+    padding: 0;
+}
+
+/* Styling for each user item */
+.post-user {
+    margin-bottom: 20px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Styling for user name */
+.post-username {
+    font-weight: bold;
+}
+
+/* Styling for user email */
+.post-useremail {
+    color: #666;
+}

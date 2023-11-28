@@ -1,0 +1,16 @@
+.notification-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .notification-item {
+    margin: 5px;
+    padding: 5px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }
+  
